@@ -1,3 +1,5 @@
+DEPRECIATED: I wrote this to act as a githook for the projects I was working on had consistent type annotations in the docstrings. However, I have since moved to using [pydoclint](https://github.com/jsh9/pydoclint) which serves the same purpose and is more extensive. This repo will now exist in an archived form.
+
 # check_docstrings
 ### Check docstrings and type hints in Python files.
 
